@@ -113,3 +113,7 @@ workflows:
     outputs:
       - label: Linkedin Post Ideas
         demo_type: text
+  - id: wwqfg4tzmj
+    name: linkedin_post_api.json
+    description: ''
+    file: llm_workflows/linkedin_post_api.json
